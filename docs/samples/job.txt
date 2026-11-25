@@ -1,0 +1,7 @@
+Machine Learning Intern
+Company: Example Technologies
+Requirements: Python, machine learning, SQL, data preprocessing
+Preferred skills: PyTorch, NLP
+Responsibilities
+- Develop ML models
+- Process datasets

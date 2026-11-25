@@ -1,0 +1,4 @@
+[{"name": "ml_intern", "resume": "Skills\nPython, SQL, TensorFlow\nProjects\nImage classifier using CNN", "resume_skills": ["Python", "SQL", "TensorFlow", "Deep Learning"],
+  "job": "ML Intern\nRequirements: Python, machine learning, SQL\nPreferred: PyTorch", "required": ["Python", "Machine Learning", "SQL"], "preferred": ["PyTorch"]},
+ {"name": "web_dev", "resume": "Skills\nJavaScript, React, Git\nProjects\nPortfolio site with Next.js", "resume_skills": ["JavaScript", "React", "Git"],
+  "job": "Frontend Intern\nRequirements: JavaScript, TypeScript, React\nNice to have: Docker", "required": ["JavaScript", "TypeScript", "React"], "preferred": ["Docker"]}]

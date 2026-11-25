@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pypdf
+python-docx
+langgraph
+pytest
+python-dotenv
+firebase-admin
+pinecone

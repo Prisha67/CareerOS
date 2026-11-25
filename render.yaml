@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: careeros-api
+    runtime: docker
+    dockerfilePath: backend/Dockerfile
+    dockerContext: backend
+    healthCheckPath: /health
+    envVars:
+      - {key: AUTH_REQUIRED, value: "true"}
+      - {key: FRONTEND_ORIGIN, sync: false}
+      - {key: MISTRAL_API_KEY, sync: false}
+      - {key: FIREBASE_CREDENTIALS, sync: false}

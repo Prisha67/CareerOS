@@ -1,0 +1,13 @@
+node_modules/
+.next/
+__pycache__/
+.env
+.env.local
+backend/data/
+*.json.bak
+
+.venv/
+venv/
+*.pyc
+backend/data/
+*firebase*.json

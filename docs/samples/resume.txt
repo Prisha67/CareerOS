@@ -1,0 +1,11 @@
+Asha Rao
+asha@example.com
+Skills
+Python, SQL, TensorFlow, Git
+Projects
+Image Classification using CNN and TensorFlow in Python
+Student portal built with React and FastAPI
+Education
+B.Tech Computer Science, 2027
+Certifications
+Deep Learning Specialization
